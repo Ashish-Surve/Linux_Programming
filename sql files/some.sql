@@ -1,1 +1,1 @@
-select * from FirstCommit
+select * from SecondCommit
